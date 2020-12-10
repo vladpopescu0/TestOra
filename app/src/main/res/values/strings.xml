@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestOra</string>
+    <string-array name="entry">
+        <item>Doctori</item>
+        <item>Avocati</item>
+    </string-array>
+</resources>
